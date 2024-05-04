@@ -1,0 +1,248 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WildChat.FirstLogin">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <Members>
+      <Method Name="btn_delete_Click" Hidden="true" />
+      <Method Name="btn_logout_Click" Hidden="true" />
+      <Method Name="btn_save_Click" Hidden="true" />
+      <Method Name="Circular_PictureBox" Hidden="true" />
+      <Method Name="CircularImage" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="FirstLogin" Hidden="true" />
+      <Method Name="FirstLogin_FormClosing" Hidden="true" />
+      <Method Name="FirstLogin_Load" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Method Name="Lobby_FormClosing" Hidden="true" />
+      <Method Name="OnResize" Hidden="true" />
+      <Method Name="pbx_Paint" Hidden="true" />
+      <Method Name="set_background" Hidden="true" />
+      <Method Name="userpic_Click" Hidden="true" />
+      <Method Name="userpic_LoadCompleted" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>MQQEwAAQQOQEAAAAYACQYAGDBAAAAAAEJCAAAAEgEAA=</HashCode>
+      <FileName>FirstLogin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WildChat.Form1">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <Members>
+      <Method Name="btn_login_Click" Hidden="true" />
+      <Method Name="btn_login_MouseHover" Hidden="true" />
+      <Method Name="btn_register_Click" Hidden="true" />
+      <Method Name="btn_register_MouseHover" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="EnterKey" Hidden="true" />
+      <Method Name="Form1" Hidden="true" />
+      <Method Name="Form1_FormClosing" Hidden="true" />
+      <Method Name="Form1_KeyDown" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Method Name="lnklbl_forgotpass_LinkClicked" Hidden="true" />
+      <Method Name="OnResize" Hidden="true" />
+      <Method Name="pbx_hidepass_Click" Hidden="true" />
+      <Method Name="pbx_hidepass_MouseHover" Hidden="true" />
+      <Method Name="pbx_showpass_Click" Hidden="true" />
+      <Method Name="pbx_showpass_MouseHover" Hidden="true" />
+      <Method Name="set_background" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AQBQAEEAAHQFCBAAQBOQAAAWAEAQAAAAAAA4AQCEQCA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WildChat.LatestMessageControl">
+    <Position X="13.5" Y="0.5" Width="1.5" />
+    <Members>
+      <Method Name="Circular_PictureBox" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Method Name="LatestMessageControl" Hidden="true" />
+      <Method Name="OnResize" Hidden="true" />
+      <Method Name="pbx_Paint" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAACQACAAAQACAAAACAAAAAACAEAAAIAEAEAA=</HashCode>
+      <FileName>LatestMessageControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WildChat.Lobby">
+    <Position X="2.5" Y="0.5" Width="2" />
+    <Members>
+      <Method Name="btn_about_Click" Hidden="true" />
+      <Method Name="btn_account_Click" Hidden="true" />
+      <Method Name="btn_back_Click" Hidden="true" />
+      <Method Name="btn_changepass_Click" Hidden="true" />
+      <Method Name="btn_delete_Click" Hidden="true" />
+      <Method Name="btn_deleteconvo_Click" Hidden="true" />
+      <Method Name="btn_exit_Click" Hidden="true" />
+      <Method Name="btn_home_Click" Hidden="true" />
+      <Method Name="btn_logout_Click" Hidden="true" />
+      <Method Name="btn_messages_Click" Hidden="true" />
+      <Method Name="btn_save_Click" Hidden="true" />
+      <Method Name="btn_send_Click" Hidden="true" />
+      <Method Name="btn_settings_Click" Hidden="true" />
+      <Method Name="btn_upload_Click" Hidden="true" />
+      <Method Name="Circular_PictureBox" Hidden="true" />
+      <Method Name="CircularImage" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="EnterKey" Hidden="true" />
+      <Method Name="flpnl_messagehistory_DragDrop" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Method Name="Lobby" Hidden="true" />
+      <Method Name="Lobby_FormClosing" Hidden="true" />
+      <Method Name="Lobby_Load" Hidden="true" />
+      <Method Name="menu_Click" Hidden="true" />
+      <Method Name="messageload_Tick" Hidden="true" />
+      <Method Name="NavigationAccessibility" Hidden="true" />
+      <Method Name="OnResize" Hidden="true" />
+      <Method Name="pbx_hidepass_Click" Hidden="true" />
+      <Method Name="pbx_Paint" Hidden="true" />
+      <Method Name="pbx_showpass_Click" Hidden="true" />
+      <Method Name="set_background" Hidden="true" />
+      <Method Name="sidebar_background" Hidden="true" />
+      <Method Name="timerSidebar_Tick" Hidden="true" />
+      <Method Name="userlist1_Click" Hidden="true" />
+      <Method Name="userpic_Click" Hidden="true" />
+      <Method Name="userpic_LoadCompleted" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>YzRVwQGQwrdXmYAiYjDQyAm3hIzSAbDGdSCECA1qOAA=</HashCode>
+      <FileName>Lobby.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WildChat.PasswordChange">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <Members>
+      <Method Name="btn_back_Click" Hidden="true" />
+      <Method Name="btn_back1_Click" Hidden="true" />
+      <Method Name="btn_changepass_Click" Hidden="true" />
+      <Method Name="btn_continue_Click" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="EnterKey" Hidden="true" />
+      <Method Name="EnterKey1" Hidden="true" />
+      <Method Name="GetLocalIPv4" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Method Name="OnResize" Hidden="true" />
+      <Method Name="PasswordChange" Hidden="true" />
+      <Method Name="PasswordChange_FormClosing" Hidden="true" />
+      <Method Name="PasswordChange_KeyDown" Hidden="true" />
+      <Method Name="pbx_hideconfirmpass_Click" Hidden="true" />
+      <Method Name="pbx_hidepass_Click" Hidden="true" />
+      <Method Name="pbx_showconfirmpass_Click" Hidden="true" />
+      <Method Name="pbx_showpass_Click" Hidden="true" />
+      <Method Name="set_background" Hidden="true" />
+      <Method Name="tbx_confirmpassword_Leave" Hidden="true" />
+      <Method Name="tbx_password_Leave" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AwBAQAEAAiIFAkAASDHQIAAfAAAUgQAgAAPwAACgEAg=</HashCode>
+      <FileName>PasswordChange.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WildChat.ReceivedMessage">
+    <Position X="11.75" Y="0.5" Width="1.5" />
+    <Members>
+      <Method Name="AddHeightText" Hidden="true" />
+      <Method Name="Circular_PictureBox" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Method Name="OnResize" Hidden="true" />
+      <Method Name="pbx_Paint" Hidden="true" />
+      <Method Name="ReceivedMessage" Hidden="true" />
+      <Method Name="ReceivedMessage_Load" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAACQECAAAQACAAAACAAAAAACIAAEIIAEAAAA=</HashCode>
+      <FileName>ReceivedMessage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WildChat.Registration">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <Members>
+      <Method Name="btn_login_Click" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="EnterKey" Hidden="true" />
+      <Method Name="GetLocalIPv4" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Method Name="OnResize" Hidden="true" />
+      <Method Name="pbx_hideconfirmpass_Click" Hidden="true" />
+      <Method Name="pbx_hidepass_Click" Hidden="true" />
+      <Method Name="pbx_showconfirmpass_Click" Hidden="true" />
+      <Method Name="pbx_showpass_Click" Hidden="true" />
+      <Method Name="Registration" Hidden="true" />
+      <Method Name="Registration_FormClosing" Hidden="true" />
+      <Method Name="Registration_KeyDown" Hidden="true" />
+      <Method Name="set_background" Hidden="true" />
+      <Method Name="tbx_confirmpassword_Leave" Hidden="true" />
+      <Method Name="tbx_password_Leave" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AwAAAAEAAiAFAEAASBGQAAEeAAAUgQAAAQE4AgCEEAA=</HashCode>
+      <FileName>Registration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WildChat.SendMessage">
+    <Position X="15.5" Y="0.5" Width="1.5" />
+    <Members>
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Method Name="SendMessage" Hidden="true" />
+      <Method Name="SendMessage_Load" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAQAAACAAAACAAAAAAAIAAEBIAAAAAA=</HashCode>
+      <FileName>SendMessage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WildChat.UiList">
+    <Position X="17.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>UiList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WildChat.userlist">
+    <Position X="17.5" Y="2" Width="1.5" />
+    <Members>
+      <Method Name="Circular_PictureBox" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Method Name="OnResize" Hidden="true" />
+      <Method Name="pbx_Paint" Hidden="true" />
+      <Method Name="userlist" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAKQACEAAQACAAAACAAAAAACAAAAAAAEACAA=</HashCode>
+      <FileName>userlist.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
